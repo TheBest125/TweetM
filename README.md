@@ -1,4 +1,5 @@
 ![Tweetme Logo](https://cfe-static.s3.amazonaws.com/media/tweetme/images/tweetme.png)
+Made by kevin bruyne
 
 # Tweetme
 
